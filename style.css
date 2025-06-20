@@ -1,0 +1,9 @@
+
+body { font-family: Arial, sans-serif; padding: 20px; background-color: #fff8f0; color: #442200; }
+header { display: flex; justify-content: space-between; align-items: center; padding: 10px 20px; background-color: #fbe4c6; }
+nav a { margin: 0 10px; color: #442200; text-decoration: none; }
+.hero { text-align: center; padding: 50px; background: linear-gradient(to right, #fff3e0, #ffe0b2); }
+.hero h1 { font-size: 24px; margin-bottom: 20px; }
+.btn { padding: 10px 20px; background-color: #c49b66; color: white; text-decoration: none; }
+.offer { background-color: #fff0cc; padding: 20px; margin-top: 20px; text-align: center; }
+.reviews { padding: 20px; background-color: #fdf6ec; margin-top: 20px; }
